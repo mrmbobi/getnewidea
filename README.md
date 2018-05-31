@@ -1,0 +1,2 @@
+# getnewidea
+Exploring workspace
